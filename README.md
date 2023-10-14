@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8000808&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'AM+Cristiano+Galdino;Graduating+From;Analise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 <p align="center"><strong>I ❤️ solve great challenges using tech. <br><br> I develop backend using Java, I am passionate about discovering new materials and using them to create high quality solutions. Today, I'm a <strong>student focused on development.&nbsp;</strong>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
  
  &nbsp;
  &nbsp;
